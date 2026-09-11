@@ -3,7 +3,14 @@
 Dedicated public distribution storage for A-Kira Agent Visual Studio Code extension packages and release artifacts.
 
 ## Direct Download
-* **Current Stable Package**: [Download a-kira-agent-0.1.0.vsix](https://github.com/SEANGSENGLY001/Extension-File-Storage/raw/main/a-kira-agent-0.1.0.vsix)
+[![Download VSIX](https://img.shields.io/badge/DOWNLOAD-A--KIRA%20AGENT%20v0.1.0%20(VSIX)-007ACC?style=for-the-badge)](https://github.com/SEANGSENGLY001/Extension-File-Storage/raw/main/a-kira-agent-0.1.0.vsix) [![Storage Repository](https://img.shields.io/badge/GITHUB-FILE%20STORAGE-24292e?style=for-the-badge)](https://github.com/SEANGSENGLY001/Extension-File-Storage)
+
+> **OFFICIAL PRODUCTION RELEASE**
+>
+> **[ >>> CLICK HERE TO DOWNLOAD a-kira-agent-0.1.0.vsix (2.15 MB) <<< ](https://github.com/SEANGSENGLY001/Extension-File-Storage/raw/main/a-kira-agent-0.1.0.vsix)**
+>
+> *Direct one-click download. Fast, secure, and offline-ready. No registration or marketplace login required.*
+
 * **File Size**: 2.15 MB
 * **Version**: v0.1.0 (Stable Public Release)
 
